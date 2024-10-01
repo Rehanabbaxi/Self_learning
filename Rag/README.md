@@ -1,0 +1,1 @@
+Its an basic Rag pipeline using langchain & ollama 
